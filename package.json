@@ -1,0 +1,20 @@
+{
+  "name": "mpesa-sdk-ts-20260624c",
+  "version": "1.0.0",
+  "description": "A comprehensive TypeScript utility library for integrating Daraja API with full type safety.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["mpesa", "daraja", "typescript", "sdk", "safaricom"],
+  "author": "SDK Builder",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
